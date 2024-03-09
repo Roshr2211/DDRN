@@ -20,7 +20,7 @@ const Hero = () => {
         rounded-full shadow-md hover:bg-green-700"
           onClick={() => setGlobalState('createModal', 'scale-100')}
         >
-          Add Project
+          Add Donations
         </button>
 
         <button
@@ -30,7 +30,7 @@ const Hero = () => {
         rounded-full shadow-md bg-transparent hover:bg-green-700
         hover:text-white"
         >
-          Back Projects
+          Back Donations
         </button>
       </div>
 
@@ -45,7 +45,7 @@ const Hero = () => {
           >
             {stats?.totalProjects || 0}
           </span>
-          <span>Projects</span>
+          <span>Donations</span>
         </div>
         <div
           className="flex flex-col justify-center items-center
