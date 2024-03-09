@@ -21,7 +21,7 @@ To run the demo follow these steps:
     ```sh
 
     # Make sure you have the above prerequisites installed already!
-    git clone https://github.com/Daltonic/genesis PROJECT_NAME
+    git clone https://github.com/Roshr2211/DDRN.git PROJECT_NAME
     cd PROJECT_NAME # Navigate to the new folder.
     yarn install # Installs all the dependencies.
     ```
